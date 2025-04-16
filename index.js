@@ -57,4 +57,4 @@ Only return the rewritten message, no explanations.
 
 app.listen(port, () => {
   console.log(`Server is running on port ${port}`);
-  });
+});
